@@ -339,3 +339,7 @@ print(f"Nota Final: {result.final_grade:.2f}")
 ## Licencia
 
 Proyecto academico - UTEC 2025
+
+## Quality Gate
+
+[![Quality Gate](http://213.199.42.57:9002/api/project_badges/measure?project=Backend-Student-32&metric=alert_status)](http://213.199.42.57:9002/dashboard?id=Backend-Student-32)
