@@ -2,6 +2,16 @@
 
 Sistema de calculo de notas finales para docentes UTEC - Examen Final de Ingenieria de Software
 
+
+
+## Resultados de calidad y análisis SonarQube
+
+### Calidad requerida
+![Calidad requerida](quality.png)
+
+### Resultado del alumno en SonarQube
+![Resultado SonarQube](sonnar.png)
+
 ## Descripcion
 
 CS-GradeCalculator es un sistema modular diseñado para calcular las notas finales de estudiantes, considerando evaluaciones ponderadas, asistencia minima y politicas de puntos extra por consenso docente. Implementa el caso de uso CU001: Calcular nota final del estudiante.
