@@ -2,15 +2,13 @@
 
 Sistema de calculo de notas finales para docentes UTEC - Examen Final de Ingenieria de Software
 
-
-
 ## Resultados de calidad y análisis SonarQube
 
-### Calidad requerida
-![Calidad requerida](quality.png)
+### Rquerido
+![Calidad requerida](sonnar.png)
 
 ### Resultado del alumno en SonarQube
-![Resultado SonarQube](sonnar.png)
+![Resultado SonarQube](quality.png)
 
 ## Descripcion
 
